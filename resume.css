@@ -1,0 +1,32 @@
+*sec{
+    background-color: hsl(hue, saturation, lightness)
+}
+.sec{
+    background-color: blue;
+    colour:black;
+}
+h2{
+    background-color: aqua;
+    color: black;
+    font-size: medium;
+    font-style: italic;
+}
+div{
+    background-color: blanchedalmond;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+p{
+    background-color: aquamarine;
+    color: azure;
+}
+
+h3{
+    background-color: blue;
+    color: red;
+}
+.sec-3{
+    background-color: blueviolet;
+    color: blue;
+}

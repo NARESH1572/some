@@ -1,0 +1,13 @@
+.div{
+    background-color: aqua;
+    height: auto;
+    width: 100%;
+display:flex ;
+
+}
+.p1{
+background-color: aquamarine;
+flex-grow:1;
+    /* height: auto;
+    width: 30px; */
+}
